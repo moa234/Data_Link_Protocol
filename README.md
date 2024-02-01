@@ -1,7 +1,7 @@
 # Data Link Layer Protocol Simulation
 Selective repeat algorithm implementation for data link layer protocol simulation.
 
-<video src="Images/networks.mp4" controls title="Title"></video>
+![](Images/networks.gif)
 
 ## Table of contents
 * [Technologies](#technologies)
