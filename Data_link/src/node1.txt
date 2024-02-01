@@ -7,7 +7,7 @@
 0001 delay
 0110 duplost
 1010 dupmod
-0010 dup
-0100 lostA
+0100 lost2
+0011 deldup
 0100 lostB
 0100 lostC
