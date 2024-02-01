@@ -4,11 +4,11 @@ Selective repeat algorithm implementation for data link layer protocol simulatio
 <video src="Images/networks.mp4" controls title="Title"></video>
 
 ## Table of contents
-* [Technologies](##technologies)
-* [Overview](##overview)
-* [How to run](##how-to-run)
-* [Contributors](##contributors)
-* [References](##references)
+* [Technologies](#technologies)
+* [Overview](#overview)
+* [How to run](#how-to-run)
+* [Contributors](#contributors)
+* [References](#references)
 
 ## Technologies
 Project was created with:
